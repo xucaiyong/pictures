@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-01-15T06:17:47.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fNoOmMzDD3w8IOof8MUe" version="22.1.18" type="github">
+  <diagram name="第 1 页" id="sRKQCzoWLGBB-Lj2tA8l">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZFmc6502SIPXarq9Us3b-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_sql_server_instance_alt;" parent="1" vertex="1">
+          <mxGeometry x="390" y="220" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFmc6502SIPXarq9Us3b-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_sql_server_instance;" parent="1" vertex="1">
+          <mxGeometry x="110" y="434" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFmc6502SIPXarq9Us3b-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_proxy_alt;" parent="1" vertex="1">
+          <mxGeometry x="72" y="309" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFmc6502SIPXarq9Us3b-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" parent="1" vertex="1">
+          <mxGeometry x="270" y="280" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
